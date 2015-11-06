@@ -1,5 +1,4 @@
-# LinuxDay2015 Phishing Demonstration
-Phishing Demonstration during Linux Day 2015
+# Linux Day 2015 Phishing Demonstration
 
 During the Linux Day 2015 in Orvieto (Italy) I have demonstrated what is phishing.
 
